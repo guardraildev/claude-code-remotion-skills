@@ -1,0 +1,1 @@
+Make a new Remotion video in this project: vertical 1080x1920, 30 fps, 10 seconds, composition id RouteMap. Show a real map of Japan and animate a route line drawing from Tokyo to Osaka, with a marker at each city and their names. Use free map data that needs no API key or account. Then render it to out/RouteMap.mp4 (please render; I want the MP4).
