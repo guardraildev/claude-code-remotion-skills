@@ -1,0 +1,25 @@
+run,job,setup,result,turns,seconds,cost_usd,remotion_skills_listed,skill_calls,notes
+run1,text,skills installed,success,9,57,0.434,13,,
+s2,text,skills installed,success,8,62,0.228,13,,
+s3,text,skills installed,success,11,76,0.248,13,,
+n1,text,not installed,success,8,69,0.229,0,,
+n2,text,not installed,success,9,58,0.226,0,,
+n3,text,not installed,success,7,55,0.181,0,,
+c1,captions,skills installed,success,8,60,0.220,13,,createTikTokStyleCaptions from @remotion/captions
+c2,captions,skills installed,success,12,74,0.279,13,,createTikTokStyleCaptions from @remotion/captions
+c3,captions,skills installed,success,9,66,0.249,13,,createTikTokStyleCaptions from @remotion/captions
+d1,captions,not installed,success,11,68,0.266,0,,createTikTokStyleCaptions from @remotion/captions
+d2,captions,not installed,success,11,69,0.286,0,,createTikTokStyleCaptions from @remotion/captions
+d3,captions,not installed,success,11,78,0.319,0,,createTikTokStyleCaptions from @remotion/captions
+p1,captions,skills installed + skill named in prompt,success,12,71,0.283,13,remotion-best-practices,createTikTokStyleCaptions from @remotion/captions
+p2,captions,skills installed + skill named in prompt,success,15,66,0.296,13,remotion-best-practices,createTikTokStyleCaptions from @remotion/captions
+p3,captions,skills installed + skill named in prompt,success,10,60,0.258,13,remotion-best-practices,createTikTokStyleCaptions from @remotion/captions
+m1,captions,skills installed + CLAUDE.md line,success,12,64,0.313,13,remotion-best-practices,createTikTokStyleCaptions from @remotion/captions
+m2,captions,skills installed + CLAUDE.md line,success,10,70,0.272,13,remotion-best-practices,createTikTokStyleCaptions from @remotion/captions
+m3,captions,skills installed + CLAUDE.md line,success,13,76,0.320,13,remotion-best-practices,createTikTokStyleCaptions from @remotion/captions
+g1,map,skills installed + skill named in prompt,success,23,134,0.505,13,remotion-best-practices,maplibre-gl + OpenFreeMap tiles
+g2,map,skills installed + skill named in prompt,success,17,111,0.435,13,remotion-best-practices,maplibre-gl + OpenFreeMap tiles
+g3,map,skills installed + skill named in prompt,success,15,104,0.390,13,remotion-maps,maplibre-gl + OpenFreeMap tiles
+h1,map,not installed,success,18,133,0.455,0,,own GeoJSON outline map (dataofjapan/land)
+h2,map,not installed,success,15,174,0.465,0,,d3-geo + world-atlas (Natural Earth)
+h3,map,not installed,success,22,143,0.550,0,,own GeoJSON outline map (dataofjapan/land)
